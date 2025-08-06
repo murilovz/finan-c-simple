@@ -7,6 +7,7 @@ Compilador GCC (recomendado)
 Um simples, porém robusto, gerenciador financeiro de linha de comando desenvolvido em C. Este projeto foi criado como um exercício prático para aprofundar conhecimentos em manipulação de arquivos (binários e texto), uso de `structs` e criação de interfaces interativas no terminal.
 
 **Sobre o Projeto**
+
 O objetivo era criar um programa capaz de registrar transações financeiras (receitas, despesas e poupança), armazená-las de forma persistente e permitir a consulta e geração de relatórios. A aplicação utiliza um arquivo binário (`.dat`) para o armazenamento eficiente dos dados e gera um relatório de texto (`.txt`) formatado para fácil leitura.
 
 **Funcionalidades**
